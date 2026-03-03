@@ -1,4 +1,4 @@
-# 🛒 Brazil E-Commerce Price Optimization  
+# Brazil E-Commerce Price Optimization  
 ### Data Science & Data Analysis Integrated Project  
 
 This repository presents a comprehensive **data-driven project** focused on predicting and analyzing product prices in Brazil’s e-commerce ecosystem.  
@@ -7,7 +7,7 @@ The project integrates two analytical perspectives — **Data Science** (predict
 
 ---
 
-## 🎯 Business Context  
+## Business Context  
 
 Brazil’s online marketplace includes thousands of sellers offering diverse products with significant price variability.  
 Setting competitive yet profitable prices remains a major challenge due to differences in:  
@@ -39,7 +39,7 @@ This project uses data from multiple relational tables (orders, products, seller
 
 ---
 
-## 📊 Dataset Overview  
+## Dataset Overview  
 
 Data source: **Brazilian E-Commerce Public Dataset (Olist)**  
 Main tables merged using relational keys (`order_id`, `product_id`, `seller_id`, `customer_id`).
@@ -92,7 +92,7 @@ Main tables merged using relational keys (`order_id`, `product_id`, `seller_id`,
 
 ---
 
-## 📈 Data Analyst Insights  
+## Data Analyst Insights  
 
 ### 1. Pricing & Profitability  
 - Premium products have longer descriptions and fewer but higher-quality images.  
@@ -120,7 +120,7 @@ Common negatives: *“não recebi”, “veio errado”, “faltando”*
 
 ---
 
-## 💡 Business Integration: Seller Affiliation Program  
+## Business Integration: Seller Affiliation Program  
 
 | Metric | Without Program | With Program |
 |:--|--:|--:|
@@ -134,14 +134,14 @@ Common negatives: *“não recebi”, “veio errado”, “faltando”*
 
 ---
 
-## 🔗 Relevant Links
+## Relevant Links
 
 - Access Dataset and Model here: https://drive.google.com/drive/folders/1ujXQRfHrQEJQd03RCn6wDSkgamlikWOH?usp=sharing
 - Access Tableau here: https://public.tableau.com/app/profile/uriel.siboro/viz/BrazilianE-CommerceFINAL/Dashboard2?publish=yes
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 | Area | Tools |
 |------|-------|
