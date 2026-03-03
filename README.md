@@ -21,7 +21,7 @@ This project uses data from multiple relational tables (orders, products, seller
 
 ---
 
-## 🧩 Project Objectives  
+## Project Objectives  
 
 1. **Price Prediction (Data Science Track)**  
    - Develop a regression model to predict product prices for the top 10 product categories.  
@@ -56,7 +56,7 @@ Main tables merged using relational keys (`order_id`, `product_id`, `seller_id`,
 
 ---
 
-## 🧠 Data Science Pipeline  
+## Data Science Pipeline  
 
 1. **Data Merging & Cleaning**  
    - Merged multiple tables into one comprehensive DataFrame.  
